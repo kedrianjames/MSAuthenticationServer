@@ -1,0 +1,5 @@
+c:\AuthenticationServer\AuthenticationServer\bin\AuthenticationServer.dll
+c:\AuthenticationServer\AuthenticationServer\bin\AuthenticationServer.pdb
+c:\AuthenticationServer\AuthenticationServer\obj\Debug\ResolveAssemblyReference.cache
+c:\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.dll
+c:\AuthenticationServer\AuthenticationServer\obj\Debug\AuthenticationServer.pdb
